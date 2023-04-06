@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16be4faf-14f0-4c8d-85e4-ead93abf598d" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/sample.md" afterDir="false" />
+>>>>>>> 0308675945ef3e7dac35a7a8c4b75e2d288e4b0b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/Валерий/Desktop/colab-first"
+=======
+    "last_opened_file_path": "C:/Users/Валерий/Desktop/colab-second"
+>>>>>>> 0308675945ef3e7dac35a7a8c4b75e2d288e4b0b
   }
 }]]></component>
   <component name="RunManager">
